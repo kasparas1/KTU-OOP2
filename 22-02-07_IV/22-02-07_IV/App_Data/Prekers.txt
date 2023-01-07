@@ -1,0 +1,7 @@
+﻿Pieštukas 0.1
+Trintukas 0.1
+A4-popierius 2.31
+Rašikliai 0.45
+Tušas 1.57
+Spalvotas-popierius 3.22
+Guašas 2.90

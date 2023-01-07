@@ -1,0 +1,4 @@
+OP,Jusas,Vacius,14
+Matematika,Giedrius,Ziberkas,9
+Darnus Vystimas,Jusas,Vacius,14
+Skaitmenine logika,Tomosaitis,Jonas,5

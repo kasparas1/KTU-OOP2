@@ -1,0 +1,112 @@
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\22-02-07_II.dll.config
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\22-02-07_II.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\22-02-07_II.pdb
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\csc.exe
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\csc.exe.config
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\csc.rsp
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\csi.exe
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\csi.exe.config
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\csi.rsp
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.AppContext.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.Console.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.IO.Compression.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.Security.Claims.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.ValueTuple.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\vbc.exe
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\vbc.exe.config
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\vbc.rsp
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\VBCSCompiler.exe
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\obj\Debug\22-02-07_II.csprojAssemblyReference.cache
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\obj\Debug\22-02-07_II.csproj.CoreCompileInputs.cache
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\obj\Debug\22-02-07_II.csproj.CopyComplete
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\obj\Debug\22-02-07_II.dll
+C:\Users\kaskli\Desktop\22-02-07_II\22-02-07_II\obj\Debug\22-02-07_II.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\22-02-07_II.dll.config
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\22-02-07_II.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\22-02-07_II.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\csc.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\csc.exe.config
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\csc.rsp
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\csi.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\csi.exe.config
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\csi.rsp
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.AppContext.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.Console.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.IO.Compression.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.IO.Pipes.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.Security.AccessControl.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.Security.Claims.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.ValueTuple.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.Xml.XPath.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\vbc.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\vbc.exe.config
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\vbc.rsp
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\VBCSCompiler.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\obj\Debug\22-02-07_II.csproj.AssemblyReference.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\obj\Debug\22-02-07_II.csproj.CoreCompileInputs.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\obj\Debug\22-02-07_II.csproj.CopyComplete
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\obj\Debug\22-02-07_II.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\22-02-07_II\22-02-07_II\obj\Debug\22-02-07_II.pdb

@@ -1,0 +1,3 @@
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\K1_pav_2022\K1_pav_2022\obj\Debug\K1_pav_2022.csproj.AssemblyReference.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\K1_pav_2022\K1_pav_2022\obj\Debug\K1_pav_2022.csproj.SuggestedBindingRedirects.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\GUI C#\K1_pav_2022\K1_pav_2022\obj\Debug\K1_pav_2022.csproj.CoreCompileInputs.cache

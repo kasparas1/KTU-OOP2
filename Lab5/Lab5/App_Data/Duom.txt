@@ -1,0 +1,4 @@
+﻿2022-04-10
+Adamkus,Tomas,15,00,10
+Biden,Joe,14,40,5
+Johnson,James,15,15,20

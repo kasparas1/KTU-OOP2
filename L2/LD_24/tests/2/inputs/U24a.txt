@@ -1,0 +1,4 @@
+0, Atsuktuvas, 0.99
+1, Varztas, 0.05
+2, Laidas, 2.00
+3, Plaktukas, 2.99

@@ -1,0 +1,49 @@
+----------------------------------------------------------
+| Informacija apie studentus                             |
+----------------------------------------------------------
+| Modulio pavadinimas |     Pavarde |   Vardas |   Grupe |
+----------------------------------------------------------
+|                   s | Kliucinskas | Kasparas |  IF-1/1 |
+|          Matematika |   Lukauskas | Deividas |  IF-1/3 |
+|                   s |     Pavarde | Edmundas | IFF-1/2 |
+|                   s |        Clay |   Lincon |  IF-1/2 |
+----------------------------------------------------------
+
+----------------------------------------------------------
+| Informacija apie modulius                              |
+----------------------------------------------------------
+| Modulio pavadinimas |    Pavarde |   Vardas | Kreditai |
+----------------------------------------------------------
+|                  OP |      Jusas |   Vacius |       14 |
+|          Matematika |   Giedrius | Ziberkas |        9 |
+|     Darnus Vystimas |      Jusas |   Vacius |       14 |
+|  Skaitmenine logika | Tomosaitis |    Jonas |        5 |
+----------------------------------------------------------
+
+-------------------------------------------------------------
+| Informacija apie destytoja kuris turi daugiausiai moduliu |
+-------------------------------------------------------------
+| Modulio pavadinimas |                            Kreditai |
+-------------------------------------------------------------
+|                  OP |                                  14 |
+|     Darnus Vystimas |                                  14 |
+-------------------------------------------------------------
+
+---------------------------------------------------
+| Studentai kurie pasirinko to destytojo modulius |
+---------------------------------------------------
+|                                           Grupe |
+---------------------------------------------------
+| Nėra                                            |
+---------------------------------------------------
+
+------------------------------------
+| Studentu sarasas pagal moduli    |
+------------------------------------
+|     Pavarde |   Vardas |   Grupe |
+------------------------------------
+| Kliucinskas | Kasparas |  IF-1/1 |
+|     Pavarde | Edmundas | IFF-1/2 |
+|        Clay |   Lincon |  IF-1/2 |
+------------------------------------
+
